@@ -1,5 +1,34 @@
 [
   {
+    "title": "Release It!",
+    "authors": [
+      "Michael T. Nygard"
+    ],
+    "publisher": "Pragmatic Bookshelf",
+    "publishedDate": "2018-01-08",
+    "description": "A single dramatic software failure can cost a company millions of dollars - but can be avoided with simple changes to design and architecture. This new edition of the best-selling industry standard shows you how to create systems that run longer, with fewer failures, and recover better when bad things happen. New coverage includes DevOps, microservices, and cloud-native architecture. Stability antipatterns have grown to include systemic problems in large-scale systems. This is a must-have pragmatic guide to engineering for production systems. If you're a software developer, and you don't want to get alerts every night for the rest of your life, help is here. With a combination of case studies about huge losses - lost revenue, lost reputation, lost time, lost opportunity - and practical, down-to-earth advice that was all gained through painful experience, this book helps you avoid the pitfalls that cost companies millions of dollars in downtime and reputation. Eighty percent of project life-cycle cost is in production, yet few books address this topic. This updated edition deals with the production of today's systems - larger, more complex, and heavily virtualized - and includes information on chaos engineering, the discipline of applying randomness and deliberate stress to reveal systematic problems. Build systems that survive the real world, avoid downtime, implement zero-downtime upgrades and continuous delivery, and make cloud-native applications resilient. Examine ways to architect, design, and build software - particularly distributed systems - that stands up to the typhoon winds of a flash mob, a Slashdotting, or a link on Reddit. Take a hard look at software that failed the test and find ways to make sure your software survives. To skip the pain and get the experience...get this book.",
+    "image": "http://books.google.com/books/content?id=Ug9QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 2,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 378,
+    "isbn10": "1680504525",
+    "isbn13": "9781680504521",
+    "googleBooks": {
+      "id": "Ug9QDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=Ug9QDwAAQBAJ&printsec=frontcover&dq=intitle:Release+It!&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=Ug9QDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=Ug9QDwAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-21T23:39:45.000Z"
+  },
+  {
     "title": "Discovery",
     "authors": [
       "Gáspár Nagy"
