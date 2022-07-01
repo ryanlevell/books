@@ -21,14 +21,14 @@
     "isbn13": "9781942788355",
     "googleBooks": {
       "id": "Kax-DwAAQBAJ",
-      "preview": "http://books.google.com/books?id=Kax-DwAAQBAJ&printsec=frontcover&dq=intitle:Accelerate&hl=&cd=1&source=gbs_api",
+      "preview": "http://books.google.com/books?id=Kax-DwAAQBAJ&printsec=frontcover&dq=intitle:Accelerate&hl=&cd=2&source=gbs_api",
       "info": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ&source=gbs_api",
       "canonical": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ"
     },
-    "issueNumber": 4,
+    "issueNumber": 5,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2022-07-01T16:57:51.000Z"
+    "startedAt": "2022-07-01T17:07:26.000Z"
   },
   {
     "title": "Test-driven Development",
