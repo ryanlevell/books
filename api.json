@@ -1,5 +1,34 @@
 [
   {
+    "title": "Test-driven Development",
+    "authors": [
+      "Kent Beck"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2003",
+    "description": "Write clean code that works with the help of this groundbreaking software method. Example-driven teaching is the basis of Beck's step-by-step instruction that will have readers using TDD to further their projects.",
+    "image": "http://books.google.com/books/content?id=CUlsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 220,
+    "isbn10": "0321146530",
+    "isbn13": "9780321146533",
+    "googleBooks": {
+      "id": "CUlsAQAAQBAJ",
+      "preview": "http://books.google.com/books?id=CUlsAQAAQBAJ&printsec=frontcover&dq=intitle:Test-Driven+Design+By+Example&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=CUlsAQAAQBAJ&dq=intitle:Test-Driven+Design+By+Example&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Test_driven_Development.html?hl=&id=CUlsAQAAQBAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-01T16:57:42.000Z"
+  },
+  {
     "title": "Release It!",
     "authors": [
       "Michael T. Nygard"
