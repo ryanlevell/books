@@ -59,8 +59,11 @@
     },
     "issueNumber": 3,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-01T16:57:42.000Z"
+    "state": "completed",
+    "startedAt": "2022-07-01T16:57:42.000Z",
+    "completedAt": "2022-07-10T03:39:31.000Z",
+    "timeToComplete": 729709000,
+    "timeToCompleteFormatted": "1 week"
   },
   {
     "title": "Release It!",
