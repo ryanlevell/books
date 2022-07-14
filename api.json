@@ -1,5 +1,34 @@
 [
   {
+    "title": "Building Microservices",
+    "authors": [
+      "Sam Newman"
+    ],
+    "publisher": "Oreilly & Associates Incorporated",
+    "publishedDate": "2015-02-17",
+    "description": "Over the past 10 years, distributed systems have become more fine-grained. From the large multi-million line long monolithic applications, we are now seeing the benefits of smaller self-contained services. Rather than heavy-weight, hard to change Service Oriented Architectures, we are now seeing systems consisting of collaborating microservices. Easier to change, deploy, and if required retire, organizations which are in the right position to take advantage of them are yielding significant benefits.This book takes an holistic view of the things you need to be cognizant of in order to pull this off. It covers just enough understanding of technology, architecture, operations and organization to show you how to move towards finer-grained systems.",
+    "image": "http://books.google.com/books/content?id=1uUDoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 259,
+    "isbn10": "1491950358",
+    "isbn13": "9781491950357",
+    "googleBooks": {
+      "id": "1uUDoQEACAAJ",
+      "preview": "http://books.google.com/books?id=1uUDoQEACAAJ&dq=intitle:Building+Microservices&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=1uUDoQEACAAJ&dq=intitle:Building+Microservices&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Building_Microservices.html?hl=&id=1uUDoQEACAAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-14T01:59:49.000Z"
+  },
+  {
     "title": "Accelerate",
     "authors": [
       "Nicole Forsgren PhD",
