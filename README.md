@@ -11,7 +11,6 @@ This repository is used to track the books I'm reading these days, powered by [B
 <!--start:bookshelf-action-->
 ### ⌛ Currently reading (3)
 
-[![Book cover of Designing Data-Intensive Applications](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dp1heDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/7 "Designing Data-Intensive Applications by Martin Kleppmann")
 [![Book cover of Building Microservices](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D1uUDoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/6 "Building Microservices by Sam Newman")
 [![Book cover of Release It!](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DUg9QDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/2 "Release It! by Michael T. Nygard")
 
