@@ -1,5 +1,32 @@
 [
   {
+    "title": "Modern Software Engineering",
+    "authors": [
+      "David Farley"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2022-01-19",
+    "description": "Writing for students at all levels of experience, Farley illuminates durable principles at the heart of effective software development. He distills the discipline into two core exercises: first, learning and exploration, and second, managing complexity. For each, he defines principles that can help students improve everything from their mindset to the quality of their code, and describes approaches proven to promote success. Farley's ideas and techniques cohere into a unified, scientific, and foundational approach to solving practical software development problems within realistic economic constraints. This general, durable, and pervasive approach to software engineering can help students solve problems they haven't encountered yet, using today's technologies and tomorrow's. It offers students deeper insight into what they do every day, helping them create better software, faster, with more pleasure and personal fulfillment.",
+    "image": "http://books.google.com/books/content?id=ZKxHzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Engineering"
+    ],
+    "pageCount": 256,
+    "isbn10": "0137314914",
+    "isbn13": "9780137314911",
+    "googleBooks": {
+      "id": "ZKxHzgEACAAJ",
+      "preview": "http://books.google.com/books?id=ZKxHzgEACAAJ&dq=intitle:Modern+Software+Engingeering&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=ZKxHzgEACAAJ&dq=intitle:Modern+Software+Engingeering&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Modern_Software_Engineering.html?hl=&id=ZKxHzgEACAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-10-02T16:23:12.000Z"
+  },
+  {
     "title": "Building Microservices",
     "authors": [
       "Sam Newman"
