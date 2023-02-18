@@ -1,5 +1,35 @@
 [
   {
+    "title": "Continuous Delivery",
+    "authors": [
+      "Jez Humble",
+      "David Farley"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2010-07-27",
+    "description": "Winner of the 2011 Jolt Excellence Award! Getting software released to users is often a painful, risky, and time-consuming process. This groundbreaking new book sets out the principles and technical practices that enable rapid, incremental delivery of high quality, valuable new functionality to users. Through automation of the build, deployment, and testing process, and improved collaboration between developers, testers, and operations, delivery teams can get changes released in a matter of hours— sometimes even minutes–no matter what the size of a project or the complexity of its code base. Jez Humble and David Farley begin by presenting the foundations of a rapid, reliable, low-risk delivery process. Next, they introduce the “deployment pipeline,” an automated process for managing all changes, from check-in to release. Finally, they discuss the “ecosystem” needed to support continuous delivery, from infrastructure, data and configuration management to governance. The authors introduce state-of-the-art techniques, including automated infrastructure management and data migration, and the use of virtualization. For each, they review key issues, identify best practices, and demonstrate how to mitigate risks. Coverage includes • Automating all facets of building, integrating, testing, and deploying software • Implementing deployment pipelines at team and organizational levels • Improving collaboration between developers, testers, and operations • Developing features incrementally on large and distributed teams • Implementing an effective configuration management strategy • Automating acceptance testing, from analysis to implementation • Testing capacity and other non-functional requirements • Implementing continuous deployment and zero-downtime releases • Managing infrastructure, data, components and dependencies • Navigating risk management, compliance, and auditing Whether you’re a developer, systems administrator, tester, or manager, this book will help your organization move from idea to release faster than ever—so you can deliver value to your business rapidly and reliably.",
+    "image": "http://books.google.com/books/content?id=6ADDuzere-YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 512,
+    "isbn10": "0321670221",
+    "isbn13": "9780321670229",
+    "googleBooks": {
+      "id": "6ADDuzere-YC",
+      "preview": "http://books.google.com/books?id=6ADDuzere-YC&printsec=frontcover&dq=intitle:Continuous+Delivery&hl=&cd=4&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=6ADDuzere-YC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=6ADDuzere-YC"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-02-18T04:20:47.000Z"
+  },
+  {
     "title": "Modern Software Engineering",
     "authors": [
       "David Farley"
