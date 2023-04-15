@@ -1,5 +1,35 @@
 [
   {
+    "title": "User Story Mapping",
+    "authors": [
+      "Jeff Patton",
+      "Peter Economy"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2014-09-05",
+    "description": "User story mapping is a valuable tool for software development, once you understand why and how to use it. This insightful book examines how this often misunderstood technique can help your team stay focused on users and their needs without getting lost in the enthusiasm for individual product features. Author Jeff Patton shows you how changeable story maps enable your team to hold better conversations about the project throughout the development process. Your team will learn to come away with a shared understanding of what you’re attempting to build and why. Get a high-level view of story mapping, with an exercise to learn key concepts quickly Understand how stories really work, and how they come to life in Agile and Lean projects Dive into a story’s lifecycle, starting with opportunities and moving deeper into discovery Prepare your stories, pay attention while they’re built, and learn from those you convert to working software",
+    "image": "http://books.google.com/books/content?id=4YZyBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 324,
+    "isbn10": "1491904887",
+    "isbn13": "9781491904886",
+    "googleBooks": {
+      "id": "4YZyBAAAQBAJ",
+      "preview": "http://books.google.com/books?id=4YZyBAAAQBAJ&printsec=frontcover&dq=intitle:User+Story+Mapping&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=4YZyBAAAQBAJ&dq=intitle:User+Story+Mapping&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/User_Story_Mapping.html?hl=&id=4YZyBAAAQBAJ"
+    },
+    "issueNumber": 14,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-04-15T23:28:41.000Z"
+  },
+  {
     "title": "Doing Agile Right",
     "authors": [
       "Darrell K. Rigby",

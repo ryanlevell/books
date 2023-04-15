@@ -9,8 +9,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (4)
+### ⌛ Currently reading (5)
 
+[![Book cover of User Story Mapping](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D4YZyBAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/14 "User Story Mapping by Jeff Patton, Peter Economy")
 [![Book cover of Doing Agile Right](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DlVmnDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/12 "Doing Agile Right by Darrell K. Rigby, Sarah Elk, Steven H. Berez")
 [![Book cover of Continuous Delivery](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6ADDuzere-YC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/9 "Continuous Delivery by Jez Humble, David Farley")
 [![Book cover of Modern Software Engineering](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZKxHzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/8 "Modern Software Engineering by David Farley")
