@@ -1,5 +1,36 @@
 [
   {
+    "title": "How Google Tests Software",
+    "authors": [
+      "James A. Whittaker",
+      "Jason Arbon",
+      "Jeff Carollo"
+    ],
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2012-03-21",
+    "description": "2012 Jolt Award finalist! Pioneering the Future of Software Test Do you need to get it right, too? Then, learn from Google. Legendary testing expert James Whittaker, until recently a Google testing leader, and two top Google experts reveal exactly how Google tests software, offering brand-new best practices you can use even if you’re not quite Google’s size…yet! Breakthrough Techniques You Can Actually Use Discover 100% practical, amazingly scalable techniques for analyzing risk and planning tests…thinking like real users…implementing exploratory, black box, white box, and acceptance testing…getting usable feedback…tracking issues…choosing and creating tools…testing “Docs & Mocks,” interfaces, classes, modules, libraries, binaries, services, and infrastructure…reviewing code and refactoring…using test hooks, presubmit scripts, queues, continuous builds, and more. With these techniques, you can transform testing from a bottleneck into an accelerator–and make your whole organization more productive!",
+    "image": "http://books.google.com/books/content?id=VrAx1ATf-RoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 72,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 316,
+    "isbn10": "0132851555",
+    "isbn13": "9780132851558",
+    "googleBooks": {
+      "id": "VrAx1ATf-RoC",
+      "preview": "http://books.google.com/books?id=VrAx1ATf-RoC&printsec=frontcover&dq=intitle:Software+Engineering+at+Google&hl=&cd=10&source=gbs_api",
+      "info": "http://books.google.com/books?id=VrAx1ATf-RoC&dq=intitle:Software+Engineering+at+Google&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/How_Google_Tests_Software.html?hl=&id=VrAx1ATf-RoC"
+    },
+    "issueNumber": 15,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-06-18T18:55:36.000Z"
+  },
+  {
     "title": "User Story Mapping",
     "authors": [
       "Jeff Patton",
