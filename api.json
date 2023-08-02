@@ -1,5 +1,34 @@
 [
   {
+    "title": "Clean Code",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2009",
+    "description": "Looks at the principles and clean code, includes case studies showcasing the practices of writing clean code, and contains a list of heuristics and \"smells\" accumulated from the process of writing clean code.",
+    "image": "http://books.google.com/books/content?id=hjEFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 464,
+    "isbn10": "0132350882",
+    "isbn13": "9780132350884",
+    "googleBooks": {
+      "id": "hjEFCAAAQBAJ",
+      "preview": "http://books.google.com/books?id=hjEFCAAAQBAJ&printsec=frontcover&dq=intitle:Clean+Code&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=hjEFCAAAQBAJ&dq=intitle:Clean+Code&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Clean_Code.html?hl=&id=hjEFCAAAQBAJ"
+    },
+    "issueNumber": 18,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-08-02T02:17:08.000Z"
+  },
+  {
     "title": "Software Engineering at Google",
     "authors": [
       "Titus Winters",
