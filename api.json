@@ -1,5 +1,30 @@
 [
   {
+    "title": "Fifty Quick Ideas to Improve Your Tests",
+    "authors": [
+      "Gojko Adzic",
+      "David Evans",
+      "Tom Roden"
+    ],
+    "publishedDate": "2015-05-15",
+    "description": "This book is for cross-functional teams working in an iterative delivery environment, planning with user stories and testing frequently changing software under tough time pressure. This book will help you test your software better, easier and faster. Many of these ideas also help teams engage their business stakeholders better in defining key expectations and improve the quality of their software products.",
+    "image": "http://books.google.com/books/content?id=Re3FsgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 124,
+    "isbn10": "0993088112",
+    "isbn13": "9780993088117",
+    "googleBooks": {
+      "id": "Re3FsgEACAAJ",
+      "preview": "http://books.google.com/books?id=Re3FsgEACAAJ&dq=intitle:Fifty+Quick+Ideas+to+Improve+Your+User+Stories&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Re3FsgEACAAJ&dq=intitle:Fifty+Quick+Ideas+to+Improve+Your+User+Stories&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Fifty_Quick_Ideas_to_Improve_Your_Tests.html?hl=&id=Re3FsgEACAAJ"
+    },
+    "issueNumber": 19,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-08-06T04:06:15.000Z"
+  },
+  {
     "title": "Clean Code",
     "authors": [
       "Robert C. Martin"
