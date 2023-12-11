@@ -1,5 +1,33 @@
 [
   {
+    "title": "Fundamentals of Software Architecture",
+    "authors": [
+      "Mark Richards",
+      "Neal Ford"
+    ],
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2020-01-28",
+    "description": "Salary surveys worldwide regularly place software architect in the top 10 best jobs, yet no real guide exists to help developers become architects. Until now. This book provides the first comprehensive overview of software architecture’s many aspects. Aspiring and existing architects alike will examine architectural characteristics, architectural patterns, component determination, diagramming and presenting architecture, evolutionary architecture, and many other topics. Mark Richards and Neal Ford—hands-on practitioners who have taught software architecture classes professionally for years—focus on architecture principles that apply across all technology stacks. You’ll explore software architecture in a modern light, taking into account all the innovations of the past decade. This book examines: Architecture patterns: The technical basis for many architectural decisions Components: Identification, coupling, cohesion, partitioning, and granularity Soft skills: Effective team management, meetings, negotiation, presentations, and more Modernity: Engineering practices and operational approaches that have changed radically in the past few years Architecture as an engineering discipline: Repeatable results, metrics, and concrete valuations that add rigor to software architecture",
+    "image": "http://books.google.com/books/content?id=xa7MDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 422,
+    "isbn10": "1492043427",
+    "isbn13": "9781492043423",
+    "googleBooks": {
+      "id": "xa7MDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=xa7MDwAAQBAJ&printsec=frontcover&dq=intitle:Fundamentals+of+Software+Architecture&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=xa7MDwAAQBAJ&dq=intitle:Fundamentals+of+Software+Architecture&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Fundamentals_of_Software_Architecture.html?hl=&id=xa7MDwAAQBAJ"
+    },
+    "issueNumber": 20,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-12-11T01:54:51.000Z"
+  },
+  {
     "title": "Fifty Quick Ideas to Improve Your Tests",
     "authors": [
       "Gojko Adzic",
