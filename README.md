@@ -9,7 +9,7 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (10)
+### ⌛ Currently reading (9)
 
 [![Book cover of Fundamentals of Software Architecture](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dxa7MDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/20 "Fundamentals of Software Architecture by Mark Richards, Neal Ford")
 [![Book cover of Fifty Quick Ideas to Improve Your Tests](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DRe3FsgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/19 "Fifty Quick Ideas to Improve Your Tests by Gojko Adzic, David Evans, Tom Roden")
@@ -20,13 +20,13 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Book cover of Doing Agile Right](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DlVmnDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/12 "Doing Agile Right by Darrell K. Rigby, Sarah Elk, Steven H. Berez")
 [![Book cover of Continuous Delivery](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D6ADDuzere-YC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/9 "Continuous Delivery by Jez Humble, David Farley")
 [![Book cover of Modern Software Engineering](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DZKxHzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/8 "Modern Software Engineering by David Farley")
-[![Book cover of Release It!](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DUg9QDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/2 "Release It! by Michael T. Nygard")
 
-### ✅ Completed (4)
+### ✅ Completed (5)
 
 [![Book cover of Building Microservices](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D1uUDoQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/6 "Building Microservices by Sam Newman completed in 2 weeks on July 2022")
 [![Book cover of Accelerate](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DKax-DwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/5 "Accelerate by Nicole Forsgren PhD, Jez Humble, Gene Kim completed in 1 day on July 2022")
 [![Book cover of Test-driven Development](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DCUlsAQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/3 "Test-driven Development by Kent Beck completed in 1 week on July 2022")
+[![Book cover of Release It!](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DUg9QDwAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/2 "Release It! by Michael T. Nygard completed in 1 year on February 2024")
 [![Book cover of Discovery](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DFwLGswEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/ryanlevell/books/issues/1 "Discovery by Gáspár Nagy completed in 14 hours on May 2022")
 
 <!--end:bookshelf-action-->
