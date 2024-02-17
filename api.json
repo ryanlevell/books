@@ -1,33 +1,32 @@
 [
   {
-    "title": "Java Threads",
+    "title": "Java Performance: The Definitive Guide",
     "authors": [
-      "Scott Oaks",
-      "Henry Wong"
+      "Scott Oaks"
     ],
     "publisher": "\"O'Reilly Media, Inc.\"",
-    "publishedDate": "2004",
-    "description": "Threads are essential to Java programming, but learning to use them effectively is a nontrivial task. This new edition shows you how to take advantage of Java's threading facilities and brings you up-to-date with the changes in Java 2 Standard Edition version 5.0 (J2SE 5.0). It provides a thorough, step-by-step approach to threads programming.",
-    "image": "http://books.google.com/books/content?id=mB_92VqJbsMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2014-04-10",
+    "description": "Coding and testing are often considered separate areas of expertise. In this comprehensive guide, author and Java expert Scott Oaks takes the approach that anyone who works with Java should be equally adept at understanding how code behaves in the JVM, as well as the tunings likely to help its performance. You’ll gain in-depth knowledge of Java application performance, using the Java Virtual Machine (JVM) and the Java platform, including the language and API. Developers and performance engineers alike will learn a variety of features, tools, and processes for improving the way Java 7 and 8 applications perform. Apply four principles for obtaining the best results from performance testing Use JDK tools to collect data on how a Java application is performing Understand the advantages and disadvantages of using a JIT compiler Tune JVM garbage collectors to affect programs as little as possible Use techniques to manage heap memory and JVM native memory Maximize Java threading and synchronization performance features Tackle performance issues in Java EE and Java SE APIs Improve Java-driven database application performance",
+    "image": "http://books.google.com/books/content?id=aIhUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 3,
-    "ratingsCount": 7,
+    "averageRating": 4.5,
+    "ratingsCount": 3,
     "categories": [
       "Computers"
     ],
-    "pageCount": 361,
-    "isbn10": "0596007825",
-    "isbn13": "9780596007829",
+    "pageCount": 425,
+    "isbn10": "1449363547",
+    "isbn13": "9781449363543",
     "googleBooks": {
-      "id": "mB_92VqJbsMC",
-      "preview": "http://books.google.com/books?id=mB_92VqJbsMC&printsec=frontcover&dq=intitle:Java+Performance+by+Scott+Oaks&hl=&cd=4&source=gbs_api",
-      "info": "http://books.google.com/books?id=mB_92VqJbsMC&dq=intitle:Java+Performance+by+Scott+Oaks&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Java_Threads.html?hl=&id=mB_92VqJbsMC"
+      "id": "aIhUAwAAQBAJ",
+      "preview": "http://books.google.com/books?id=aIhUAwAAQBAJ&printsec=frontcover&dq=intitle:Java+Performance:+In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=aIhUAwAAQBAJ&dq=intitle:Java+Performance:+In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Java_Performance_The_Definitive_Guide.html?hl=&id=aIhUAwAAQBAJ"
     },
-    "issueNumber": 23,
+    "issueNumber": 24,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-02-17T18:55:41.000Z"
+    "startedAt": "2024-02-17T18:58:18.000Z"
   },
   {
     "title": "Fundamentals of Software Architecture",
