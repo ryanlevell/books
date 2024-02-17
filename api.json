@@ -1,32 +1,32 @@
 [
   {
-    "title": "Java Performance: The Definitive Guide",
+    "title": "Beyond Java",
     "authors": [
-      "Scott Oaks"
+      "Bruce Tate"
     ],
     "publisher": "\"O'Reilly Media, Inc.\"",
-    "publishedDate": "2014-04-10",
-    "description": "Coding and testing are often considered separate areas of expertise. In this comprehensive guide, author and Java expert Scott Oaks takes the approach that anyone who works with Java should be equally adept at understanding how code behaves in the JVM, as well as the tunings likely to help its performance. You’ll gain in-depth knowledge of Java application performance, using the Java Virtual Machine (JVM) and the Java platform, including the language and API. Developers and performance engineers alike will learn a variety of features, tools, and processes for improving the way Java 7 and 8 applications perform. Apply four principles for obtaining the best results from performance testing Use JDK tools to collect data on how a Java application is performing Understand the advantages and disadvantages of using a JIT compiler Tune JVM garbage collectors to affect programs as little as possible Use techniques to manage heap memory and JVM native memory Maximize Java threading and synchronization performance features Tackle performance issues in Java EE and Java SE APIs Improve Java-driven database application performance",
-    "image": "http://books.google.com/books/content?id=aIhUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2005-09-22",
+    "description": "Bruce Tate, author of the Jolt Award-winning Better, Faster, Lighter Java has an intriguing notion about the future of Java, and it's causing some agitation among Java developers. Bruce believes Java is abandoning its base, and conditions are ripe for an alternative to emerge. In Beyond Java, Bruce chronicles the rise of the most successful language of all time, and then lays out, in painstaking detail, the compromises the founders had to make to establish success. Then, he describes the characteristics of likely successors to Java. He builds to a rapid and heady climax, presenting alternative languages and frameworks with productivity and innovation unmatched in Java. He closes with an evaluation of the most popular and important programming languages, and their future role in a world beyond Java. If you are agree with the book's premise--that Java's reign is coming to an end--then this book will help you start to build your skills accordingly. You can download some of the frameworks discussed and learn a few new languages. This book will teach you what a new language needs to succeed, so when things do change, you'll be more prepared. And even if you think Java is here to stay, you can use the best techniques from frameworks introduced in this book to improve what you're doing in Java today.",
+    "image": "http://books.google.com/books/content?id=wwcT08lk-DcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4.5,
-    "ratingsCount": 3,
+    "averageRating": 2.5,
+    "ratingsCount": 4,
     "categories": [
       "Computers"
     ],
-    "pageCount": 425,
-    "isbn10": "1449363547",
-    "isbn13": "9781449363543",
+    "pageCount": 204,
+    "isbn10": "0596553498",
+    "isbn13": "9780596553494",
     "googleBooks": {
-      "id": "aIhUAwAAQBAJ",
-      "preview": "http://books.google.com/books?id=aIhUAwAAQBAJ&printsec=frontcover&dq=intitle:Java+Performance+In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond+By+Scott+Oaks&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=aIhUAwAAQBAJ&dq=intitle:Java+Performance+In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond+By+Scott+Oaks&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Java_Performance_The_Definitive_Guide.html?hl=&id=aIhUAwAAQBAJ"
+      "id": "wwcT08lk-DcC",
+      "preview": "http://books.google.com/books?id=wwcT08lk-DcC&printsec=frontcover&dq=intitle:In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond&hl=&cd=4&source=gbs_api",
+      "info": "http://books.google.com/books?id=wwcT08lk-DcC&dq=intitle:In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Beyond_Java.html?hl=&id=wwcT08lk-DcC"
     },
-    "issueNumber": 26,
+    "issueNumber": 27,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-02-17T19:01:53.000Z"
+    "startedAt": "2024-02-17T19:03:11.000Z"
   },
   {
     "title": "Fundamentals of Software Architecture",
