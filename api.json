@@ -1,32 +1,30 @@
 [
   {
-    "title": "Java Performance: The Definitive Guide",
+    "title": "Java Performance",
     "authors": [
       "Scott Oaks"
     ],
-    "publisher": "\"O'Reilly Media, Inc.\"",
-    "publishedDate": "2014-04-10",
-    "description": "Coding and testing are often considered separate areas of expertise. In this comprehensive guide, author and Java expert Scott Oaks takes the approach that anyone who works with Java should be equally adept at understanding how code behaves in the JVM, as well as the tunings likely to help its performance. You’ll gain in-depth knowledge of Java application performance, using the Java Virtual Machine (JVM) and the Java platform, including the language and API. Developers and performance engineers alike will learn a variety of features, tools, and processes for improving the way Java 7 and 8 applications perform. Apply four principles for obtaining the best results from performance testing Use JDK tools to collect data on how a Java application is performing Understand the advantages and disadvantages of using a JIT compiler Tune JVM garbage collectors to affect programs as little as possible Use techniques to manage heap memory and JVM native memory Maximize Java threading and synchronization performance features Tackle performance issues in Java EE and Java SE APIs Improve Java-driven database application performance",
-    "image": "http://books.google.com/books/content?id=aIhUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "O'Reilly Media",
+    "publishedDate": "2020-02-11",
+    "description": "Coding and testing are generally considered separate areas of expertise. In this practical book, Java expert Scott Oaks takes the approach that anyone who works with Java should be adept at understanding how code behaves in the Java Virtual Machine—including the tunings likely to help performance. This updated second edition helps you gain in-depth knowledge of Java application performance using both the JVM and the Java platform. Developers and performance engineers alike will learn a variety of features, tools, and processes for improving the way the Java 8 and 11 LTS releases perform. While the emphasis is on production-supported releases and features, this book also features previews of exciting new technologies such as ahead-of-time compilation and experimental garbage collections. Understand how various Java platforms and compilers affect performance Learn how Java garbage collection works Apply four principles to obtain best results from performance testing Use the JDK and other tools to learn how a Java application is performing Minimize the garbage collector’s impact through tuning and programming practices Tackle performance issues in Java APIs Improve Java-driven database application performance",
+    "image": "http://books.google.com/books/content?id=Q3_QDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4.5,
-    "ratingsCount": 3,
     "categories": [
       "Computers"
     ],
-    "pageCount": 425,
-    "isbn10": "1449363547",
-    "isbn13": "9781449363543",
+    "pageCount": 451,
+    "isbn10": "1492056081",
+    "isbn13": "9781492056089",
     "googleBooks": {
-      "id": "aIhUAwAAQBAJ",
-      "preview": "http://books.google.com/books?id=aIhUAwAAQBAJ&printsec=frontcover&dq=intitle:Java+Performance+2020&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=aIhUAwAAQBAJ&dq=intitle:Java+Performance+2020&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Java_Performance_The_Definitive_Guide.html?hl=&id=aIhUAwAAQBAJ"
+      "id": "Q3_QDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=Q3_QDwAAQBAJ&printsec=frontcover&dq=intitle:Java+Performance+Q3_QDwAAQBAJ&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=Q3_QDwAAQBAJ&dq=intitle:Java+Performance+Q3_QDwAAQBAJ&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Java_Performance.html?hl=&id=Q3_QDwAAQBAJ"
     },
-    "issueNumber": 28,
+    "issueNumber": 29,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-02-17T19:04:36.000Z"
+    "startedAt": "2024-02-17T19:11:07.000Z"
   },
   {
     "title": "Fundamentals of Software Architecture",
