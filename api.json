@@ -1,5 +1,34 @@
 [
   {
+    "title": "Java Performance Tuning",
+    "authors": [
+      "Jack Shirazi"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2003-01-21",
+    "description": "Helps readers eliminate performance problems, covering topics including bottlenecks, profiling tools, strings, algorithms, distributed systems, and servlets.",
+    "image": "http://books.google.com/books/content?id=iPHtCfZQyqQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 588,
+    "isbn10": "0596003773",
+    "isbn13": "9780596003777",
+    "googleBooks": {
+      "id": "iPHtCfZQyqQC",
+      "preview": "http://books.google.com/books?id=iPHtCfZQyqQC&printsec=frontcover&dq=intitle:Java+Performance,+2nd+Edition&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=iPHtCfZQyqQC&dq=intitle:Java+Performance,+2nd+Edition&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Java_Performance_Tuning.html?hl=&id=iPHtCfZQyqQC"
+    },
+    "issueNumber": 21,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-02-17T18:52:57.000Z"
+  },
+  {
     "title": "Fundamentals of Software Architecture",
     "authors": [
       "Mark Richards",
