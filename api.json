@@ -1,32 +1,33 @@
 [
   {
-    "title": "Java Performance Tuning",
+    "title": "Java Threads",
     "authors": [
-      "Jack Shirazi"
+      "Scott Oaks",
+      "Henry Wong"
     ],
     "publisher": "\"O'Reilly Media, Inc.\"",
-    "publishedDate": "2003-01-21",
-    "description": "Helps readers eliminate performance problems, covering topics including bottlenecks, profiling tools, strings, algorithms, distributed systems, and servlets.",
-    "image": "http://books.google.com/books/content?id=iPHtCfZQyqQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2004",
+    "description": "Threads are essential to Java programming, but learning to use them effectively is a nontrivial task. This new edition shows you how to take advantage of Java's threading facilities and brings you up-to-date with the changes in Java 2 Standard Edition version 5.0 (J2SE 5.0). It provides a thorough, step-by-step approach to threads programming.",
+    "image": "http://books.google.com/books/content?id=mB_92VqJbsMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 3,
+    "averageRating": 3,
+    "ratingsCount": 7,
     "categories": [
       "Computers"
     ],
-    "pageCount": 588,
-    "isbn10": "0596003773",
-    "isbn13": "9780596003777",
+    "pageCount": 361,
+    "isbn10": "0596007825",
+    "isbn13": "9780596007829",
     "googleBooks": {
-      "id": "iPHtCfZQyqQC",
-      "preview": "http://books.google.com/books?id=iPHtCfZQyqQC&printsec=frontcover&dq=intitle:Java+Performance&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=iPHtCfZQyqQC&dq=intitle:Java+Performance&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Java_Performance_Tuning.html?hl=&id=iPHtCfZQyqQC"
+      "id": "mB_92VqJbsMC",
+      "preview": "http://books.google.com/books?id=mB_92VqJbsMC&printsec=frontcover&dq=intitle:Java+Performance+by+Scott+Oaks&hl=&cd=4&source=gbs_api",
+      "info": "http://books.google.com/books?id=mB_92VqJbsMC&dq=intitle:Java+Performance+by+Scott+Oaks&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Java_Threads.html?hl=&id=mB_92VqJbsMC"
     },
-    "issueNumber": 22,
+    "issueNumber": 23,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-02-17T18:54:23.000Z"
+    "startedAt": "2024-02-17T18:55:41.000Z"
   },
   {
     "title": "Fundamentals of Software Architecture",
