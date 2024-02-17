@@ -1,33 +1,32 @@
 [
   {
-    "title": "Java Performance",
+    "title": "Java Performance: The Definitive Guide",
     "authors": [
-      "Charlie Hunt",
-      "Binu John"
+      "Scott Oaks"
     ],
-    "publisher": "Prentice Hall",
-    "publishedDate": "2012",
-    "description": "This is the first one-stop guide to identifying, isolating, and fixing Java performance issues on multicore and multiprocessor platforms.",
-    "image": "http://books.google.com/books/content?id=7mktLCw0E2IC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2014-04-10",
+    "description": "Coding and testing are often considered separate areas of expertise. In this comprehensive guide, author and Java expert Scott Oaks takes the approach that anyone who works with Java should be equally adept at understanding how code behaves in the JVM, as well as the tunings likely to help its performance. You’ll gain in-depth knowledge of Java application performance, using the Java Virtual Machine (JVM) and the Java platform, including the language and API. Developers and performance engineers alike will learn a variety of features, tools, and processes for improving the way Java 7 and 8 applications perform. Apply four principles for obtaining the best results from performance testing Use JDK tools to collect data on how a Java application is performing Understand the advantages and disadvantages of using a JIT compiler Tune JVM garbage collectors to affect programs as little as possible Use techniques to manage heap memory and JVM native memory Maximize Java threading and synchronization performance features Tackle performance issues in Java EE and Java SE APIs Improve Java-driven database application performance",
+    "image": "http://books.google.com/books/content?id=aIhUAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 1,
+    "averageRating": 4.5,
+    "ratingsCount": 3,
     "categories": [
-      "Application software"
+      "Computers"
     ],
-    "pageCount": 717,
-    "isbn10": "0137142528",
-    "isbn13": "9780137142521",
+    "pageCount": 425,
+    "isbn10": "1449363547",
+    "isbn13": "9781449363543",
     "googleBooks": {
-      "id": "7mktLCw0E2IC",
-      "preview": "http://books.google.com/books?id=7mktLCw0E2IC&q=intitle:Java+Performance+978-1492056119&dq=intitle:Java+Performance+978-1492056119&hl=&cd=7&source=gbs_api",
-      "info": "http://books.google.com/books?id=7mktLCw0E2IC&dq=intitle:Java+Performance+978-1492056119&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Java_Performance.html?hl=&id=7mktLCw0E2IC"
+      "id": "aIhUAwAAQBAJ",
+      "preview": "http://books.google.com/books?id=aIhUAwAAQBAJ&printsec=frontcover&dq=intitle:Java+Performance+In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond+By+Scott+Oaks&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=aIhUAwAAQBAJ&dq=intitle:Java+Performance+In-Depth+Advice+for+Tuning+and+Programming+Java+8,+11,+and+Beyond+By+Scott+Oaks&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Java_Performance_The_Definitive_Guide.html?hl=&id=aIhUAwAAQBAJ"
     },
-    "issueNumber": 25,
+    "issueNumber": 26,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-02-17T19:00:27.000Z"
+    "startedAt": "2024-02-17T19:01:53.000Z"
   },
   {
     "title": "Fundamentals of Software Architecture",
