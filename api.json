@@ -19,14 +19,14 @@
     "isbn13": "9780596003777",
     "googleBooks": {
       "id": "iPHtCfZQyqQC",
-      "preview": "http://books.google.com/books?id=iPHtCfZQyqQC&printsec=frontcover&dq=intitle:Java+Performance,+2nd+Edition&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=iPHtCfZQyqQC&dq=intitle:Java+Performance,+2nd+Edition&hl=&source=gbs_api",
+      "preview": "http://books.google.com/books?id=iPHtCfZQyqQC&printsec=frontcover&dq=intitle:Java+Performance&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=iPHtCfZQyqQC&dq=intitle:Java+Performance&hl=&source=gbs_api",
       "canonical": "https://books.google.com/books/about/Java_Performance_Tuning.html?hl=&id=iPHtCfZQyqQC"
     },
-    "issueNumber": 21,
+    "issueNumber": 22,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-02-17T18:52:57.000Z"
+    "startedAt": "2024-02-17T18:54:23.000Z"
   },
   {
     "title": "Fundamentals of Software Architecture",
