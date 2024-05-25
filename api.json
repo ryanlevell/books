@@ -1,34 +1,31 @@
 [
   {
-    "title": "Software Architecture in Practice",
+    "title": "Distributed Systems",
     "authors": [
-      "Len Bass",
-      "Paul Clements",
-      "Rick Kazman"
+      "Andrew S. Tanenbaum",
+      "Maarten van Steen"
     ],
-    "publisher": "Addison-Wesley Professional",
-    "publishedDate": "2003",
-    "description": "This is the eagerly-anticipated revision to one of the seminal books in the field of software architecture which clearly defines and explains the topic.",
-    "image": "http://books.google.com/books/content?id=mdiIu8Kk1WMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "Prentice Hall",
+    "publishedDate": "2007",
+    "description": "No further information has been provided for this title.",
+    "image": "http://books.google.com/books/content?id=DL8ZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 14,
+    "averageRating": 3,
+    "ratingsCount": 4,
     "categories": [
       "Computers"
     ],
-    "pageCount": 572,
-    "isbn10": "0321154959",
-    "isbn13": "9780321154958",
+    "pageCount": 712,
     "googleBooks": {
-      "id": "mdiIu8Kk1WMC",
-      "preview": "http://books.google.com/books?id=mdiIu8Kk1WMC&printsec=frontcover&dq=intitle:Software+Architecture:+The+Hard+Parts+Modern+Trade-Off+Analyses+for+Distributed+Architectures&hl=&cd=7&source=gbs_api",
-      "info": "http://books.google.com/books?id=mdiIu8Kk1WMC&dq=intitle:Software+Architecture:+The+Hard+Parts+Modern+Trade-Off+Analyses+for+Distributed+Architectures&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Software_Architecture_in_Practice.html?hl=&id=mdiIu8Kk1WMC"
+      "id": "DL8ZAQAAIAAJ",
+      "preview": "http://books.google.com/books?id=DL8ZAQAAIAAJ&q=intitle:Modern+trade+off+analyses+for+distributed+systems&dq=intitle:Modern+trade+off+analyses+for+distributed+systems&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=DL8ZAQAAIAAJ&dq=intitle:Modern+trade+off+analyses+for+distributed+systems&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Distributed_Systems.html?hl=&id=DL8ZAQAAIAAJ"
     },
-    "issueNumber": 31,
+    "issueNumber": 32,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-05-25T05:05:25.000Z"
+    "startedAt": "2024-05-25T05:07:02.000Z"
   },
   {
     "title": "Java Performance",
