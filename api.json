@@ -1,34 +1,34 @@
 [
   {
-    "title": "Applied Software Architecture",
+    "title": "Software Architecture in Practice",
     "authors": [
-      "Christine Hofmeister",
-      "Robert Nord",
-      "Dilip Soni"
+      "Len Bass",
+      "Paul Clements",
+      "Rick Kazman"
     ],
     "publisher": "Addison-Wesley Professional",
-    "publishedDate": "2000",
-    "description": "\"Designing a large software system is an extremely complicated undertaking that requires juggling differing perspectives and differing goals, and evaluating differing options. Applied Software Architecture is the best book yet that gives guidance as to how to sort out and organize the conflicting pressures and produce a successful design.\" -- Len Bass, author of Software Architecture in Practice. Quality software architecture design has always been important, but in today's fast-paced, rapidly changing, and complex development environment, it is essential. A solid, well-thought-out design helps to manage complexity, to resolve trade-offs among conflicting requirements, and, in general, to bring quality software to market in a more timely fashion. Applied Software Architecture provides practical guidelines and techniques for producing quality software designs. It gives an overview of software architecture basics and a detailed guide to architecture design tasks, focusing on four fundamental views of architecture--conceptual, module, execution, and code. Through four real-life case studies, this book reveals the insights and best practices of the most skilled software architects in designing software architecture. These case studies, written with the masters who created them, demonstrate how the book's concepts and techniques are embodied in state-of-the-art architecture design. You will learn how to: create designs flexible enough to incorporate tomorrow's technology; use architecture as the basis for meeting performance, modifiability, reliability, and safety requirements; determine priorities among conflicting requirements and arrive at a successful solution; and use software architecture to help integrate system components. Anyone involved in software architecture will find this book a valuable compendium of best practices and an insightful look at the critical role of architecture in software development. 0201325713B07092001",
-    "image": "http://books.google.com/books/content?id=3klAPCIB3hQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2003",
+    "description": "This is the eagerly-anticipated revision to one of the seminal books in the field of software architecture which clearly defines and explains the topic.",
+    "image": "http://books.google.com/books/content?id=mdiIu8Kk1WMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 3,
-    "ratingsCount": 3,
+    "averageRating": 4,
+    "ratingsCount": 14,
     "categories": [
       "Computers"
     ],
-    "pageCount": 438,
-    "isbn10": "0201325713",
-    "isbn13": "9780201325713",
+    "pageCount": 572,
+    "isbn10": "0321154959",
+    "isbn13": "9780321154958",
     "googleBooks": {
-      "id": "3klAPCIB3hQC",
-      "preview": "http://books.google.com/books?id=3klAPCIB3hQC&printsec=frontcover&dq=intitle:Software+Architecture+the+Hard+Parts&hl=&cd=9&source=gbs_api",
-      "info": "http://books.google.com/books?id=3klAPCIB3hQC&dq=intitle:Software+Architecture+the+Hard+Parts&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Applied_Software_Architecture.html?hl=&id=3klAPCIB3hQC"
+      "id": "mdiIu8Kk1WMC",
+      "preview": "http://books.google.com/books?id=mdiIu8Kk1WMC&printsec=frontcover&dq=intitle:Software+Architecture:+The+Hard+Parts+Modern+Trade-Off+Analyses+for+Distributed+Architectures&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=mdiIu8Kk1WMC&dq=intitle:Software+Architecture:+The+Hard+Parts+Modern+Trade-Off+Analyses+for+Distributed+Architectures&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Software_Architecture_in_Practice.html?hl=&id=mdiIu8Kk1WMC"
     },
-    "issueNumber": 30,
+    "issueNumber": 31,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-05-25T05:00:37.000Z"
+    "startedAt": "2024-05-25T05:05:25.000Z"
   },
   {
     "title": "Java Performance",
