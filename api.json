@@ -26,8 +26,11 @@
     },
     "issueNumber": 33,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-05-25T05:07:57.000Z"
+    "state": "completed",
+    "startedAt": "2024-05-25T05:07:57.000Z",
+    "completedAt": "2024-05-25T05:09:35.000Z",
+    "timeToComplete": 98000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Java Performance",
