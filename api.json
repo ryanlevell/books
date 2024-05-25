@@ -1,31 +1,33 @@
 [
   {
-    "title": "Distributed Systems",
+    "title": "Software Architecture: The Hard Parts",
     "authors": [
-      "Andrew S. Tanenbaum",
-      "Maarten van Steen"
+      "Neal Ford",
+      "Mark Richards",
+      "Pramod Sadalage",
+      "Zhamak Dehghani"
     ],
-    "publisher": "Prentice Hall",
-    "publishedDate": "2007",
-    "description": "No further information has been provided for this title.",
-    "image": "http://books.google.com/books/content?id=DL8ZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2021-09-23",
+    "description": "There are no easy decisions in software architecture. Instead, there are many hard parts--difficult problems or issues with no best practices--that force you to choose among various compromises. With this book, you'll learn how to think critically about the trade-offs involved with distributed architectures. Architecture veterans and practicing consultants Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani discuss strategies for choosing an appropriate architecture. By interweaving a story about a fictional group of technology professionals--the Sysops Squad--they examine everything from how to determine service granularity, manage workflows and orchestration, manage and decouple contracts, and manage distributed transactions to how to optimize operational characteristics, such as scalability, elasticity, and performance. By focusing on commonly asked questions, this book provides techniques to help you discover and weigh the trade-offs as you confront the issues you face as an architect. Analyze trade-offs and effectively document your decisions Make better decisions regarding service granularity Understand the complexities of breaking apart monolithic applications Manage and decouple contracts between services Handle data in a highly distributed architecture Learn patterns to manage workflow and transactions when breaking apart applications",
+    "image": "http://books.google.com/books/content?id=OX1EEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 3,
-    "ratingsCount": 4,
     "categories": [
       "Computers"
     ],
-    "pageCount": 712,
+    "pageCount": 462,
+    "isbn10": "149208686X",
+    "isbn13": "9781492086864",
     "googleBooks": {
-      "id": "DL8ZAQAAIAAJ",
-      "preview": "http://books.google.com/books?id=DL8ZAQAAIAAJ&q=intitle:Modern+trade+off+analyses+for+distributed+systems&dq=intitle:Modern+trade+off+analyses+for+distributed+systems&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=DL8ZAQAAIAAJ&dq=intitle:Modern+trade+off+analyses+for+distributed+systems&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Distributed_Systems.html?hl=&id=DL8ZAQAAIAAJ"
+      "id": "OX1EEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=OX1EEAAAQBAJ&printsec=frontcover&dq=intitle:Software+architecture+the+hard+parts+Neal+ford&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=OX1EEAAAQBAJ&dq=intitle:Software+architecture+the+hard+parts+Neal+ford&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Software_Architecture_The_Hard_Parts.html?hl=&id=OX1EEAAAQBAJ"
     },
-    "issueNumber": 32,
+    "issueNumber": 33,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2024-05-25T05:07:02.000Z"
+    "startedAt": "2024-05-25T05:07:57.000Z"
   },
   {
     "title": "Java Performance",
